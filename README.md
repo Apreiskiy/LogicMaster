@@ -209,3 +209,9 @@ The project can be used:
 - as a tool for visual work with truth tables and canonical forms
 
 Project author: April
+
+
+**If you download the project as a ZIP archive on Windows, some files may be blocked by the system.
+If build errors related to `.resx` files appear, unblock the ZIP file before extracting it or run PowerShell as follows:
+
+Get-ChildItem -Recurse | Unblock-File**
