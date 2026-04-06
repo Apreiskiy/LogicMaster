@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Mamoj\OneDrive\Рабочий стол\Projects\Logic_Master\Logic_Master\Logic_Master\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Views\FunctionTableForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\MinimizationFuncForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\PrimaryImplicants.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\TableCoeff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\TableTagsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\TruthTableForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
